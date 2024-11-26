@@ -22,12 +22,13 @@
  <li>Volatility : Rolling standard deviation of logarithmic returns over 30 days, scaled to a monthly level, to measure price variability.
 </li>
  <li>Relative Strength Index (RSI) : Measures the momentum of price changes over a 14-day period to identify overbought or oversold conditions.</li>
- <li>Target Variable :
+ 
+</ul>
+<h3>Target Variable<h3>
    <ul>
     <li>1 if the stock price increases the next day.</li>
     <li>0 if the stock price decreases the next day.</li>
-   </ul></li>
-</ul>
+   </ul>
 
 <hr>
 <h2>Project Description</h2>
