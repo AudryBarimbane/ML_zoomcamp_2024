@@ -1,4 +1,4 @@
-<h2>Predicting L'Oréal Stock Price Direction (CAC 40) Using Technical Indicators</h2>
+<h2>Predicting L'Oréal Stock Price Direction (CAC 40)</h2>
 <h2>Problem Description</h2>
 
  <p>
