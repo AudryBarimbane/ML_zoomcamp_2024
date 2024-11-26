@@ -33,7 +33,13 @@
 <hr>
 <h2>Project Description</h2>
 <p>The primary goal of this project is to develop a machine learning model that can accurately predict whether L'Oréal’s stock price will increase or decrease on the following trading day, based on past price data and technical analysis</p>
+<h3>Exploratory Data Analysis (EDA)</h3>
+<ul>
+<li>Data Collection: The script uses the yfinance library to download L'Oréal's historical stock data (ticker: OR.PA) from 2020-01-01</li>
+ <li>Missing values are checked and handled by filling them with zeros</li>
+</ul>
 <hr>
+
 <h2>Files</h2>
 <hr>
 <h2>Run the code</h2>
