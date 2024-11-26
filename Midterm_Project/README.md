@@ -47,6 +47,12 @@ Random Forest Classifier,XGBoost Classifier</p>
 
 
 <h2>Files</h2>
+<ul>
+ <li>loreal_historical_data.csv</li>
+ <li>notebook_or_pa.ipynb</li>
+ <li>notebook_or_pa.py</li>
+ <li>LogisticRegression_model.pkl</li>
+</ul>
 <hr>
 <h2>Run the code</h2>
 <hr>
