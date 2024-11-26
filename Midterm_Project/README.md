@@ -32,6 +32,7 @@
 
 <hr>
 <h2>Project Description</h2>
+<p>The primary goal of this project is to develop a machine learning model that can accurately predict whether L'Oréal’s stock price will increase or decrease on the following trading day, based on past price data and technical analysis</p>
 <hr>
 <h2>Files</h2>
 <hr>
