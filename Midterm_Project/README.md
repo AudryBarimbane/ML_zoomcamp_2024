@@ -24,7 +24,7 @@
  <li>Relative Strength Index (RSI) : Measures the momentum of price changes over a 14-day period to identify overbought or oversold conditions.</li>
  
 </ul>
-<h3>Target Variable<h3>
+<h3>Target Variable</h3>
    <ul>
     <li>1 if the stock price increases the next day.</li>
     <li>0 if the stock price decreases the next day.</li>
