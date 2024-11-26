@@ -1,7 +1,11 @@
-<h1>Problem Description</h1>
+<h2>Problem Description</h2>
 <hr>
-<h1>Dataset Description</h1>
-<h1>Project Description</h1>
-<h1>Files</h1>
-<h1>Run the code</h1>
-<h1>Docker</h1>
+<h2>Dataset Description</h2>
+<hr>
+<h2>Project Description</h2>
+<hr>
+<h2>Files</h2>
+<hr>
+<h2>Run the code</h2>
+<hr>
+<h2>Docker</h2>
